@@ -3,7 +3,6 @@
   "version": "0.2.3",
   "description": "Simple string interpolation",
   "main": "build/lib.js",
-  "module": "src/index.js",
   "author": "Pratish Shrestha <pratishshr@gmail.com>",
   "license": "MIT",
   "scripts": {
